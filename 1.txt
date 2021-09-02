@@ -4,11 +4,11 @@ Jeg laver en huskeseddel
 
 <<<<<<< HEAD
 
-Regntøj og hovedpinepiller
 =======
 Ølbong go gummi
 >>>>>>> 1c43b77fe53301a866d0edc486407f9fd91278fc
 
+Regntøj og telt
 
 
 
